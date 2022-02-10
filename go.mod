@@ -162,9 +162,9 @@ require (
 )
 
 replace (
-	github.com/coreos/etcd => github.com/lizicloudinfra/etcd v3.3.20-grpc1.27-origmodule+incompatible
-	github.com/micro/go-micro/v2 => github.com/lizicloudinfra/go-micro-2.9.1/v2 v2.0.0-20211023082233-4673325378ec
-	github.com/micro/micro/v2 => github.com/lizicloudinfra/micro-2.9.3/v2 v2.0.0-20210515104251-6a140d397ddb
+	github.com/coreos/etcd => github.com/ddx2x/etcd v3.3.20-grpc1.27-origmodule+incompatible
+	github.com/micro/go-micro/v2 => github.com/ddx2x/go-micro-2.9.1/v2 v2.0.0-20211023082233-4673325378ec
+	github.com/micro/micro/v2 => github.com/ddx2x/micro-2.9.3/v2 v2.0.0-20210515104251-6a140d397ddb
 
 	github.com/openshift/api => github.com/openshift/api v0.0.0-20210105115604-44119421ec6b
 	github.com/openshift/client-go => github.com/openshift/client-go v0.0.0-20210112165513-ebc401615f47

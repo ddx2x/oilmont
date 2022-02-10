@@ -1,0 +1,1 @@
+STORAGE_URI=mongodb://127.0.0.1:27017/admin go run main.go --registry etcd --registry_address=127.0.0.1:2379 api --handler=http --address 0.0.0.0:8080
